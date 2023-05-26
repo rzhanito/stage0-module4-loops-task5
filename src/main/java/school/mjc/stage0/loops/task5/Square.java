@@ -21,5 +21,6 @@ public class Square {
         for (int i = 0; i < sideLength; i++) {
             System.out.print("8");
         }
+        System.out.println();
     }
 }
