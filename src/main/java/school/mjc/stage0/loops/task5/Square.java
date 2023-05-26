@@ -12,7 +12,7 @@ public class Square {
         for (int i = 0; i < sideLength - 2; i++) {
             System.out.print("8");
             for (int j = 0; j < sideLength - 2; j++) {
-                System.out.print("");
+                System.out.print("   ");
             }
             System.out.println("8");
         }
